@@ -11,7 +11,7 @@
 
 ## Hi there 👋
  + 📫 How to reach me: AlexCorleone@163.com
- + 🌱 I’m currently learning OC, Swift and so on.
+ + 🌱 I’m currently learning OC, Swift, C++ and so on.
 <!--  + 🔭 I’m currently working on  ...-->
 <!--  + 👯 I’m looking to collaborate on ...-->
 <!--  + 🤔 I’m looking for help with ...-->
